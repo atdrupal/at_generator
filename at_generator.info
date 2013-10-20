@@ -1,0 +1,3 @@
+name = AT Generator
+description = Module to generate code for Drupal
+core = 7.x
